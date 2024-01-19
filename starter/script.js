@@ -40,17 +40,17 @@ let store =()=>{
 
 }
 store();
-//lets get the data from local storage and display it in the text area
-//we need to use the key to get the value from local storage
+// lets get the data from local storage and display it in the text area
+// we need to use the key to get the value from local storage
 
-// let display=()=>{
-//     $(".time-block").each(function(){
-//         var time = $(this).attr("id");
-//         var text = localStorage.getItem(time);
-//         $(this).children(".description").val(text);
-//     })
-// }
-// display();
+let display=()=>{
+    $(".time-block").each(function(){
+        var time = $(this).attr("id");
+        var text = localStorage.getItem(time);
+        $(this).children(".description").val(text);
+    })
+}
+display();
 
 
 
