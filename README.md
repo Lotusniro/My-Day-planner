@@ -61,3 +61,6 @@ Github: Lotusniro
 ## url
 ![gitty
 ](https://github.com/Lotusniro/My-Day-planner)https://github.com/Lotusniro/My-Day-planner
+
+![deploy
+](https://lotusniro.github.io/My-Day-planner/)https://lotusniro.github.io/My-Day-planner/
