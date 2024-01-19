@@ -8,8 +8,8 @@ This is a Day planner use to plan and track my daily tasks. It is a simple calen
   ![screenshot
 ](https://github.com/Lotusniro/My-Day-planner/blob/main/screenshots/Screenshot%202024-01-19%20at%2019.16.10.png)
 - In the first function I used if else statement to change the colour of the time blocks to indicate whether that time slot is in the past, present, or future. if the current time and colour block id is same then it is present(RED) and if the current time is greater than the colour block id then it is past(GREY) and if the current time is less than the colour block id then it is future(GREEN).
-
-- In the second function is kind a event listener which is used to save the user input in the local storage. I used button's parent as a key and button's sibling as a value to save the user input in the local storage.setitem is used to save the user input in the local storage.
+![screenshot
+](https://github.com/Lotusniro/My-Day-planner/blob/main/screenshots/Screenshot%202024-01-19%20at%2019.16.18.png)- In the second function is kind a event listener which is used to save the user input in the local storage. I used button's parent as a key and button's sibling as a value to save the user input in the local storage.setitem is used to save the user input in the local storage.
 
 - In the third function is used to get the user input from the local storage and display it in the time block. I used button's parent as a key to get the user input from the local storage. getitem is used to get the user input from the local storage.
 
