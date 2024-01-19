@@ -12,8 +12,8 @@ This is a Day planner use to plan and track my daily tasks. It is a simple calen
 ](https://github.com/Lotusniro/My-Day-planner/blob/main/screenshots/Screenshot%202024-01-19%20at%2019.16.18.png)- In the second function is kind a event listener which is used to save the user input in the local storage. I used button's parent as a key and button's sibling as a value to save the user input in the local storage.setitem is used to save the user input in the local storage.
 ![screenshot
 ](https://github.com/Lotusniro/My-Day-planner/blob/main/screenshots/Screenshot%202024-01-19%20at%2019.16.36.png)- In the third function is used to get the user input from the local storage and display it in the time block. I used button's parent as a key to get the user input from the local storage. getitem is used to get the user input from the local storage.
-
-
+[screenshot
+](https://github.com/Lotusniro/My-Day-planner/blob/main/screenshots/Screenshot%202024-01-19%20at%2019.16.42.png)
 ## Table of Contents
 
 * [Installation](#installation)
